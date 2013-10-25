@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="c:\dev\svn\vone\vonemyfork\VersionOne.VisualStudio.Tests\bin\Release\VersionOne.VisualStudio.Tests.dll" total="50" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-10-25" time="17:01:45">
-  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5472" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="c:\dev\svn\vone\vonemyfork" machine-name="VPLECHUC-NOTE" user="vplechuc" user-domain="vplechuc-note" />
+<test-results name="c:\dev\svn\vone\vonemyfork\VersionOne.VisualStudio.Tests\bin\Release\VersionOne.VisualStudio.Tests.dll" total="50" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-10-25" time="18:58:26">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5472" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\dev\svn\vone\vonemyfork" machine-name="VPLECHUC-NOTE" user="vplechuc" user-domain="vplechuc-note" />
   <culture-info current-culture="es-AR" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="c:\dev\svn\vone\vonemyfork\VersionOne.VisualStudio.Tests\bin\Release\VersionOne.VisualStudio.Tests.dll" executed="True" result="Success" success="True" time="137.687" asserts="0">
+  <test-suite type="Assembly" name="c:\dev\svn\vone\vonemyfork\VersionOne.VisualStudio.Tests\bin\Release\VersionOne.VisualStudio.Tests.dll" executed="True" result="Success" success="True" time="126.205" asserts="0">
     <results>
-      <test-suite type="Namespace" name="VersionOne" executed="True" result="Success" success="True" time="137.667" asserts="0">
+      <test-suite type="Namespace" name="VersionOne" executed="True" result="Success" success="True" time="126.184" asserts="0">
         <results>
-          <test-suite type="Namespace" name="VisualStudio" executed="True" result="Success" success="True" time="137.667" asserts="0">
+          <test-suite type="Namespace" name="VisualStudio" executed="True" result="Success" success="True" time="126.184" asserts="0">
             <results>
-              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="137.666" asserts="0">
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="126.184" asserts="0">
                 <results>
-                  <test-suite type="TestFixture" name="DataLayerTester" executed="True" result="Success" success="True" time="105.087" asserts="1">
+                  <test-suite type="TestFixture" name="DataLayerTester" executed="True" result="Success" success="True" time="93.849" asserts="1">
                     <results>
-                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.CheckConnection" executed="True" result="Success" success="True" time="1.756" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.ChildrenSorting" executed="True" result="Success" success="True" time="32.985" asserts="7" />
-                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.CommitEffort" executed="True" result="Success" success="True" time="9.885" asserts="6" />
-                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.GetEffort" executed="True" result="Success" success="True" time="2.148" asserts="6" />
-                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.GetProjects" executed="True" result="Success" success="True" time="1.771" asserts="4" />
-                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.GetStories" executed="True" result="Success" success="True" time="2.468" asserts="9" />
-                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.GetStoryListProperty" executed="True" result="Success" success="True" time="1.904" asserts="2" />
-                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.ReadOnlyAssetsForCurrentUser" executed="True" result="Success" success="True" time="3.060" asserts="9" />
-                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.SetCurrentProjectById" executed="True" result="Success" success="True" time="3.952" asserts="3" />
-                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.SetEffort" executed="True" result="Success" success="True" time="2.301" asserts="5" />
+                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.CheckConnection" executed="True" result="Success" success="True" time="1.535" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.ChildrenSorting" executed="True" result="Success" success="True" time="29.051" asserts="7" />
+                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.CommitEffort" executed="True" result="Success" success="True" time="9.186" asserts="6" />
+                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.GetEffort" executed="True" result="Success" success="True" time="1.924" asserts="6" />
+                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.GetProjects" executed="True" result="Success" success="True" time="1.615" asserts="4" />
+                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.GetStories" executed="True" result="Success" success="True" time="2.344" asserts="9" />
+                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.GetStoryListProperty" executed="True" result="Success" success="True" time="1.843" asserts="2" />
+                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.ReadOnlyAssetsForCurrentUser" executed="True" result="Success" success="True" time="2.859" asserts="9" />
+                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.SetCurrentProjectById" executed="True" result="Success" success="True" time="3.809" asserts="3" />
+                      <test-case name="VersionOne.VisualStudio.Tests.DataLayerTester.SetEffort" executed="True" result="Success" success="True" time="2.272" asserts="5" />
                     </results>
                   </test-suite>
-                  <test-suite type="TestFixture" name="EffortTrackingTester" executed="True" result="Success" success="True" time="0.760" asserts="0">
+                  <test-suite type="TestFixture" name="EffortTrackingTester" executed="True" result="Success" success="True" time="0.785" asserts="0">
                     <results>
-                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.EffortTrackingInit" executed="True" result="Success" success="True" time="0.120" asserts="3" />
-                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.RefreshConfig" executed="True" result="Success" success="True" time="0.011" asserts="3" />
-                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.ValidateDefectEffortTrackingProperty" executed="True" result="Success" success="True" time="0.087" asserts="1" />
+                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.EffortTrackingInit" executed="True" result="Success" success="True" time="0.123" asserts="3" />
+                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.RefreshConfig" executed="True" result="Success" success="True" time="0.012" asserts="3" />
+                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.ValidateDefectEffortTrackingProperty" executed="True" result="Success" success="True" time="0.099" asserts="1" />
                       <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.ValidateDefectEffortTrackingPropertyReadOnly" executed="True" result="Success" success="True" time="0.003" asserts="1" />
-                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.ValidateStoryEffortTrackingProperty" executed="True" result="Success" success="True" time="0.002" asserts="1" />
-                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.ValidateStoryEffortTrackingPropertyReadOnly" executed="True" result="Success" success="True" time="0.003" asserts="1" />
-                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.ValidateTaskEffortTrackingProperty" executed="True" result="Success" success="True" time="0.020" asserts="2" />
-                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.ValidateTestEffortTrackingProperty" executed="True" result="Success" success="True" time="0.014" asserts="2" />
+                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.ValidateStoryEffortTrackingProperty" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.ValidateStoryEffortTrackingPropertyReadOnly" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.ValidateTaskEffortTrackingProperty" executed="True" result="Success" success="True" time="0.023" asserts="2" />
+                      <test-case name="VersionOne.VisualStudio.Tests.EffortTrackingTester.ValidateTestEffortTrackingProperty" executed="True" result="Success" success="True" time="0.025" asserts="2" />
                     </results>
                   </test-suite>
-                  <test-suite type="TestFixture" name="OptionsPageControllerTester" executed="True" result="Success" success="True" time="0.235" asserts="0">
+                  <test-suite type="TestFixture" name="OptionsPageControllerTester" executed="True" result="Success" success="True" time="0.287" asserts="0">
                     <results>
-                      <test-case name="VersionOne.VisualStudio.Tests.OptionsPageControllerTester.HandleModelChanged" executed="True" result="Success" success="True" time="0.201" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.OptionsPageControllerTester.Save" executed="True" result="Success" success="True" time="0.011" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.OptionsPageControllerTester.SaveFailure" executed="True" result="Success" success="True" time="0.007" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.OptionsPageControllerTester.VerifyConnection" executed="True" result="Success" success="True" time="0.006" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.OptionsPageControllerTester.HandleModelChanged" executed="True" result="Success" success="True" time="0.247" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.OptionsPageControllerTester.Save" executed="True" result="Success" success="True" time="0.012" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.OptionsPageControllerTester.SaveFailure" executed="True" result="Success" success="True" time="0.012" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.OptionsPageControllerTester.VerifyConnection" executed="True" result="Success" success="True" time="0.007" asserts="0" />
                       <test-case name="VersionOne.VisualStudio.Tests.OptionsPageControllerTester.VerifyConnectionFailure" executed="True" result="Success" success="True" time="0.004" asserts="0" />
                     </results>
                   </test-suite>
-                  <test-suite type="TestFixture" name="ProjectTreeControllerTester" executed="True" result="Success" success="True" time="0.155" asserts="0">
+                  <test-suite type="TestFixture" name="ProjectTreeControllerTester" executed="True" result="Success" success="True" time="0.168" asserts="0">
                     <results>
-                      <test-case name="VersionOne.VisualStudio.Tests.ProjectTreeControllerTester.GetProjects" executed="True" result="Success" success="True" time="0.093" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.ProjectTreeControllerTester.GetProjects" executed="True" result="Success" success="True" time="0.100" asserts="0" />
                       <test-case name="VersionOne.VisualStudio.Tests.ProjectTreeControllerTester.ModelChangedImportantChanges" executed="True" result="Success" success="True" time="0.004" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.ProjectTreeControllerTester.ModelChangedNonRelevantChanges" executed="True" result="Success" success="True" time="0.003" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.ProjectTreeControllerTester.ProjectSelected" executed="True" result="Success" success="True" time="0.042" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.ProjectTreeControllerTester.Refresh" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.ProjectTreeControllerTester.ModelChangedNonRelevantChanges" executed="True" result="Success" success="True" time="0.002" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.ProjectTreeControllerTester.ProjectSelected" executed="True" result="Success" success="True" time="0.047" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.ProjectTreeControllerTester.Refresh" executed="True" result="Success" success="True" time="0.005" asserts="0" />
                       <test-case name="VersionOne.VisualStudio.Tests.ProjectTreeControllerTester.RegisterAndPrepareView" executed="True" result="Success" success="True" time="0.003" asserts="2" />
                     </results>
                   </test-suite>
-                  <test-suite type="TestFixture" name="VSPackageTester" executed="True" result="Success" success="True" time="30.599" asserts="0">
+                  <test-suite type="TestFixture" name="VSPackageTester" executed="True" result="Success" success="True" time="30.221" asserts="0">
                     <results>
-                      <test-case name="VersionOne.VisualStudio.Tests.VSPackageTester.CreateInstance" executed="True" result="Success" success="True" time="14.452" asserts="1" />
-                      <test-case name="VersionOne.VisualStudio.Tests.VSPackageTester.SetSite" executed="True" result="Success" success="True" time="16.144" asserts="3" />
+                      <test-case name="VersionOne.VisualStudio.Tests.VSPackageTester.CreateInstance" executed="True" result="Success" success="True" time="14.594" asserts="1" />
+                      <test-case name="VersionOne.VisualStudio.Tests.VSPackageTester.SetSite" executed="True" result="Success" success="True" time="15.616" asserts="3" />
                     </results>
                   </test-suite>
-                  <test-suite type="TestFixture" name="WorkitemTreeControllerTester" executed="True" result="Success" success="True" time="0.773" asserts="0">
+                  <test-suite type="TestFixture" name="WorkitemTreeControllerTester" executed="True" result="Success" success="True" time="0.840" asserts="0">
                     <results>
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.AddDefect" executed="True" result="Success" success="True" time="0.361" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.AddTask" executed="True" result="Success" success="True" time="0.021" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.CloseItem" executed="True" result="Success" success="True" time="0.011" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.CloseItemValidationFailure" executed="True" result="Success" success="True" time="0.014" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.CloseItemWithGenericDataLayerException" executed="True" result="Success" success="True" time="0.013" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.CommitItem" executed="True" result="Success" success="True" time="0.017" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.CommitItemValidationFailure" executed="True" result="Success" success="True" time="0.017" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.GetWorkitems" executed="True" result="Success" success="True" time="0.044" asserts="1" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.GetWorkitemsFailure" executed="True" result="Success" success="True" time="0.013" asserts="1" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.HandleFilteringByOwner" executed="True" result="Success" success="True" time="0.019" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.HandleRefresh" executed="True" result="Success" success="True" time="0.021" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.HandleSaveCommand" executed="True" result="Success" success="True" time="0.021" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.AddDefect" executed="True" result="Success" success="True" time="0.391" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.AddTask" executed="True" result="Success" success="True" time="0.026" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.CloseItem" executed="True" result="Success" success="True" time="0.012" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.CloseItemValidationFailure" executed="True" result="Success" success="True" time="0.017" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.CloseItemWithGenericDataLayerException" executed="True" result="Success" success="True" time="0.015" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.CommitItem" executed="True" result="Success" success="True" time="0.018" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.CommitItemValidationFailure" executed="True" result="Success" success="True" time="0.020" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.GetWorkitems" executed="True" result="Success" success="True" time="0.047" asserts="1" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.GetWorkitemsFailure" executed="True" result="Success" success="True" time="0.015" asserts="1" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.HandleFilteringByOwner" executed="True" result="Success" success="True" time="0.018" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.HandleRefresh" executed="True" result="Success" success="True" time="0.023" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.HandleSaveCommand" executed="True" result="Success" success="True" time="0.022" asserts="0" />
                       <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.HandleSaveCommandGenericDataLayerException" executed="True" result="Success" success="True" time="0.028" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.HandleSaveCommandValidationException" executed="True" result="Success" success="True" time="0.023" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.HandleSaveCommandValidationException" executed="True" result="Success" success="True" time="0.024" asserts="0" />
                       <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.ModelChangedEvent" executed="True" result="Success" success="True" time="0.019" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.QuickCloseItem" executed="True" result="Success" success="True" time="0.026" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.RegisterAndPrepareView" executed="True" result="Success" success="True" time="0.017" asserts="1" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.RevertNonVirtualItem" executed="True" result="Success" success="True" time="0.031" asserts="0" />
-                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.SignupItem" executed="True" result="Success" success="True" time="0.033" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.QuickCloseItem" executed="True" result="Success" success="True" time="0.028" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.RegisterAndPrepareView" executed="True" result="Success" success="True" time="0.020" asserts="1" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.RevertNonVirtualItem" executed="True" result="Success" success="True" time="0.030" asserts="0" />
+                      <test-case name="VersionOne.VisualStudio.Tests.WorkitemTreeControllerTester.SignupItem" executed="True" result="Success" success="True" time="0.031" asserts="0" />
                     </results>
                   </test-suite>
                 </results>
