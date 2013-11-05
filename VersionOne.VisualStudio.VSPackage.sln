@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionOne.VisualStudio.Tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedUITestProject1", "..\..\..\..\Users\vplechuc\Documents\Visual Studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\CodedUITestProject1.csproj", "{5D6B1E0A-5DB7-41B9-9785-C7BE3A318CB5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9B106F6-813D-4333-8B15-6B919CF1FCA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
